@@ -1,1 +1,1 @@
-This is a project on shell redirections. This project teaches us how to display our output and make it the input into another file.
+This is a project on shell redirections. This project teaches us how to display our output and make it the input into another file. This projects has 22 tasks in it with 4 advanced tasks, making a total of 26 tasks.
